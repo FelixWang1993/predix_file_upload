@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # file-upload-with-angularjs-and-nodejs
 File Upload using Angular and Node
 
@@ -12,3 +13,6 @@ Demo Link: https://youtu.be/6XRi--KHN7U
 	<li>If you use gulp run <kbd>gulp</kbd> OR simply run <kbd>node app.js</kbd></li>
 	<li>Open <kbd>http://localhost:3000</kbd> in your browser</li>
 </ul>
+=======
+# predix_file_upload
+>>>>>>> bf4d08a22e119347e1b1903013f0b9a41188feb9
