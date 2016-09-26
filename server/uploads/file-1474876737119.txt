@@ -1,0 +1,33 @@
+Predix DevBox Version 3.4.5-e
+Date: 2016-01-05
+
+'predix' is the password everywhere.
+'predix' is the application user.
+'Documents/Predix' is the home dir (recommended) for Predix components.
+Please work under 'Documents' directory in a future version of DevBox this will come handy.
+
+
+This bundle comes with Development Tools including:
+* STS / Eclipse
+* SVN
+* Maven
+* Java 8
+* Ruby 2.2.3
+* EPEL (Extra Packages for Enterprise Linux)
+* Python 2.7.9
+* OpenSSL
+* PostgreSql 9.3
+* psql 9.3
+* PGAdmin3 1.20.0
+* STunnel
+* HAProxy
+* Couchdb
+* RabbitMQ
+* GEdit
+* Bower
+* NodeJS
+* Grunt
+* Firefox 3.5
+* cf (Cloud Foundry CLI)
+* OpenOffice
+* Anaconda distribution of Python (Pandas, Scipy, Numpy, sklearn)

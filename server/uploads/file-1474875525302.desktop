@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=gnome-panel-launcher
+Name[en_US]=Eclipse JavaScript
+Exec=/opt/springsource/sts-3.5.1.RELEASE/STS -data /predix/Documents/PredixApps/JavaScript_workspace
+Name=Eclipse JavaScript
+Icon=/opt/springsource/sts-3.5.1.RELEASE/plugins/org.eclipse.platform_4.3.2.v20140221-1700/eclipse256.png
